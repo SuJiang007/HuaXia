@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="common_top_bar_blue">#4ebcd3</color>
+    <color name="btn_login_normal">#00acff</color>
+    <color name="btn_login_pressed">#46678d</color>
+    <color name="btn_logout_normal">#d33f3f</color>
+    <color name="btn_logout_pressed">#DA5A4D</color>
+    <color name="btn_register_normal">#ffffff</color>
+    <color name="btn_register_pressed">#00acff</color>
+    <color name="common_bottom_bar_normal_bg">#fff</color>
+    <color name="common_bottom_bar_selected_bg">#161718</color>
+    <color name="common_botton_bar_blue">#2ea7e0</color>
+    <color name="common_bg">#fcfcfc</color>
+    <color name="btn_pressed_green_solid">#B6DA53</color>
+    <color name="divider_list">#d4d4d4</color>
+    <color name="top_bar_normal_bg">#fff</color>
+    <color name="error_item_color">#F6EBE6</color>
+    <color name="bottom_bar_normal_bg">#fff</color>
+    <color name="bottom_text_color_normal">#ffffff</color>
+    <color name="btn_white_normal">#f7f8f8</color>
+    <color name="btn_white_pressed">#b5b5b6</color>
+    <color name="btn_green_noraml">#68C270</color>
+    <color name="btn_green_pressed">#6FCD78</color>
+    <color name="btn_gray_normal">#c0c0c0</color>
+    <color name="btn_gray_pressed_status">#b5b5b6</color>
+    <color name="btn_gray_pressed">#666667</color>
+    <color name="btn_blue_normal">#1e90ff</color>
+    <color name="btn_blue_pressed">#0066FF</color>
+    <color name="orange">#FFA500</color>
+    <color name="gray_pressed">#b5b5b6</color>
+    <color name="gray_normal">#666667</color>
+    <color name="grid_state_pressed">#1Affffff</color>
+    <color name="grid_state_focused">#80000000</color>
+    <color name="voip_interface_text_color">#bababa</color>
+    <color name="black_deep">#FF000000</color>
+    <color name="btn_answer_pressed">#4ebcd3</color>
+    <color name="btn_answer_normal">#2dafa3</color>
+    <color name="bottom_bar_taobao_bg">#F9F7F4</color>
+    <color name="bottom_bar_normal_bg_top">#C0BFBF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <drawable name="menu_item_normal">#6A7077</drawable>
+    <drawable name="menu_item_pressed">#FF7A49</drawable>
+    <drawable name="menu_item_selected">#FF7A49</drawable>
+    <color name="menu_item_normal">#6A7077</color>
+    <color name="menu_item_pressed">#FF7A49</color>
+    <color name="menu_item_selected">#FF7A49</color>
+    <color name="fragment_bg">#EFEFEF</color>
+    <color name="item_good_text">#313131</color>
+    <color name="item_good_price">#df3131</color>
+    <color name="list_background">#EFEFEF</color>
+    <color name="good_detail_title_bg">#FF5300</color>
+    <color name="good_detail_bg">#F2F2F2</color>
+    <color name="good_detail_bg_white">#FFFFFF</color>
+    <color name="good_detail_currency_price">#CC2E2E</color>
+    <color name="good_detaul_flow_indicator_focus">#FF5300</color>
+    <color name="cart_buy_bg">#FF8000</color>
+    <color name="list_item_title">#ED6F73</color>
+    <color name="list_item_name">#131313</color>
+    <color name="list_item_des">#DCDCDC</color>
+    <color name="personal_center_top_bg">#FF5000</color>
+    <color name="bg_gray_light">#EEEEEE</color>
+    <color name="google_red">#d62d20</color>
+    <color name="google_blue">#0057e7</color>
+    <color name="google_green">#008744</color>
+    <color name="google_yellow">#ffa700</color>
+    <color name="bluebg">#007edf</color>
+    <color name="greybg">#EEEEEE</color>
+    <color name="fontgrey">#999999</color>
+    <color name="main_orange">#FF6C2C</color>
+
+    <color name="bd_wallet_white">#fff</color>
+    <color name="bd_wallet_text_gray">#aaa</color>
+    <color name="bd_wallet_blue_sectips">#3da1fb</color>
+    <color name="bd_wallet_text_gray2">#aaaaaa</color>
+    <color name="bd_wallet_black">#000</color>
+    <color name="bd_wallet_black3">#222222</color>
+    <color name="bd_wallet_blue">#5baef5</color>
+    <color name="bd_wallet_gray">#ddd</color>
+    <color name="bd_wallet_listitem_bg_grey2">#f6f6f6</color>
+    <color name="bd_wallet_fp_text_white">#FFFFFF</color>
+    <color name="bd_wallet_item_bg_blue">#37A6FB</color>
+    <color name="bd_wallet_item_bg_blue_hover">#5fb2f9</color>
+    <color name="bd_wallet_text_e4e4e4">#e4e4e4</color>
+    <color name="ebpay_login_btn_pressed">#CCCCCC</color>
+    <color name="ebpay_black_transparent">#80000000</color>
+    <color name="ebpay_white">#ffffff</color>
+    <color name="ebpay_black">#ff000000</color>
+    <color name="ebpay_toast_bg">#cc000000</color>
+    <color name="ebpay_gray">#f2f2f2</color>
+    <color name="ebpay_gray2">#e9e9e9</color>
+    <color name="ebpay_gray3">#757575</color>
+    <color name="ebpay_gray4">#f1f1f1</color>
+    <color name="ebpay_gray_pressed">#e3e3e3</color>
+    <color name="ebpay_gray_disable">#e4effc</color>
+    <color name="ebpay_title_bg">#383838</color>
+    <color name="ebpay_red">#ff5652</color>
+    <color name="ebpay_transparent">#00000000</color>
+    <color name="ebpay_list_ffe09f">#ffffe09f</color>
+    <color name="ebpay_translucence_color">#77000000</color>
+    <color name="ebpay_text_orange">#ff7800</color>
+
+    <!-- 蓝色色 -->
+    <color name="ebpay_blue">#20a3ff</color>
+    <color name="ebpay_scroll_bar">#bbbbbb</color>
+
+    <!-- 字体颜色 -->
+    <color name="ebpay_text_normal">#555</color>
+    <color name="ebpay_text_red">#d60000</color>
+    <color name="ebpay_text_blue">#3593dc</color>
+    <color name="ebpay_text_blue2">#37a6fb</color>
+    <color name="ebpay_text_hint">#ccc</color>
+    <color name="ebpay_text_gray">#999</color>
+    <color name="ebpay_text_333">#333</color>
+    <color name="ebpay_text_link_nomal">#3da1f6</color>
+    <color name="ebpay_text_link_hover">#73bff9</color>
+    <color name="ebpay_text_blue3">#5f9be6</color>
+    <color name="ebpay_text_orange1">#ff5a00</color>
+
+    <!-- For Charge -->
+    <color name="bd_wallet_discount_selected">#de4635</color>
+    <color name="bd_wallet_discount_normal">#dcdcdcdc</color>
+    <color name="bd_wallet_fp_text_error">#eb3c3c</color>
+
+    <!-- For Personal -->
+    <color name="bd_wallet_circle_gray">#d7d7d7</color>
+    <color name="bd_wallet_circle_blue">#3da1f6</color>
+    <color name="wallet_base_window_bg">#ededed</color>
+    <color name="wallet_base_blue">#3DA1F6</color>
+    <color name="wallet_base_6c">#ccc</color>
+    <color name="wallet_base_text_blue">#3593dc</color>
+
+    <!-- For Dialog -->
+    <color name="bd_wallet_dialog_bg">#ffffff</color>
+    <color name="bd_wallet_dialog_titletext">#2c2c2c</color>
+    <color name="bd_wallet_dialog_lineblue">#37a6fb</color>
+    <color name="bd_wallet_dialog_linegray">#dddddd</color>
+    <color name="bd_wallet_dialog_btnpress_bg">#f2f2f2</color>
+    <color name="bd_wallet_dialog_contenttext">#555555</color>
+    <color name="bd_wallet_dialog_btndisable">#dcdcdc</color>
+
+    <!-- For PwdPayDialog -->
+    <color name="bd_wallet_pwdpay_light_gray">#cccccc</color>
+    <color name="bd_wallet_login_light_gray">#666666</color>
+    <color name="bd_wallet_pwdpay_title_bg">#fafafa</color>
+    <color name="bd_wallet_pwdpay_text_blue">#37a6fb</color>
+    <color name="bd_wallet_pwdpay_text_before_channel">#999999</color>
+    <color name="bd_wallet_text_press_bg_color">#f1f1f1</color>
+</resources>
